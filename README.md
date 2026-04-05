@@ -27,7 +27,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Girl Coding GIF" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo2dXZvNGdybjZyeGJyaGRpNm9qMnhjdnJtenZjNHZobGk3Z3VkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img align="right" alt="Girl Developer" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 I'm **Thyaga Theekshana**, an undergraduate at the **University of Moratuwa, Sri Lanka**, pursuing a **BSc (Hons) in Information Technology & Management (ITM)**.
 
@@ -61,22 +61,6 @@ I'm passionate about crafting clean, efficient, and impactful digital experience
 ### 🤖 Exploring & Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thyaga-theekshna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyaga-theekshna&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=thyaga-theekshna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
