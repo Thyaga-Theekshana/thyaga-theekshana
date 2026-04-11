@@ -100,7 +100,7 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kemisttd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemisttd@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Thyaga--Theekshana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyaga-theekshna)
+[![GitHub](https://img.shields.io/badge/GitHub-Thyaga--Theekshana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thyaga-Theekshana)
 
 <br/>
 
