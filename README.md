@@ -11,15 +11,15 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=thyaga-theekshna&color=00c9ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Thyaga-Theekshana&color=00c9ff&style=flat-square&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/thyaga-theekshna?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Thyaga-Theekshana?label=Followers&style=social)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyaga-thikshana-a0b967302)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kemisttd@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thyaga-theekshna)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thyaga-Theekshana)
 
 </div>
 
@@ -100,7 +100,7 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kemisttd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemisttd@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-thyaga--theekshna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyaga-theekshna)
+[![GitHub](https://img.shields.io/badge/GitHub-Thyaga--Theekshana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thyaga-theekshna)
 
 <br/>
 
